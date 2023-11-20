@@ -1,9 +1,8 @@
 ### Hi there 👋
-<h1 align ="center"> Hello, I'm Leana
+<h1 align="center">Hello, I'm Leana</h1>
 
-<p align ="center">
-
-  <a href ="[https://www.linkedin.com/in/leanabarbion/]">LinkedIn</a> ·
+<p align="center">
+  <a href="https://www.linkedin.com/in/leanabarbion/">LinkedIn</a>
 </p>
 
 
