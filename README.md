@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <h1 align="center">Hello, I'm Leana</h1>
 
 <p align="center">
