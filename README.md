@@ -8,8 +8,6 @@
   </a>
 </p>
 
-
-
 ### Skills
 
 <p align="center">
@@ -26,6 +24,8 @@
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle"/>
   </a>
 </p>
+
+
 
 #### About Me
 
